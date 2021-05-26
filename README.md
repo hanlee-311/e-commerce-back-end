@@ -14,11 +14,7 @@ When starting up and using your back-end application for your business, it is im
 
 ### Step 1: Seed Your Database
 
-<<<<<<< HEAD
  ![Seeding The Database](./Develop/Assets/E-Commerce-Back-End-SeedingDB.gif)
-=======
- ![Seeding The Database](.\Assets\E-Commerce-Back-End-SeedingDB.gif)
->>>>>>> 5cc48a4ecca1985e5e429d367da4d5e53b4c9b52
 
  1. Create your database using a schema on the MySQL Workbench application. A schema has been provided for you under the db folder. 
  2. Using the command terminal, type "npm run seed" to create dummy information to populate your database as a start. 
